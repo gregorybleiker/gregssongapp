@@ -23,7 +23,7 @@ import blueGray from '@material-ui/core/colors/blueGrey';
 /* eslint-enable no-unused-vars */
 
 const settings = {
-  title: 'React + Material-UI + Firebase',
+  title: 'Gregs Song App',
 
   theme: {
     primaryColor: {
@@ -39,13 +39,13 @@ const settings = {
 
   credentials: {
     firebase: {
-      apiKey: 'AIzaSyDYZOrZVpXkPQD6J31mb9t2eIIxmGEJK-Q',
-      authDomain: 'react-material-ui-firebase.firebaseapp.com',
-      databaseURL: 'https://react-material-ui-firebase.firebaseio.com',
-      projectId: 'react-material-ui-firebase',
-      storageBucket: 'react-material-ui-firebase.appspot.com',
-      messagingSenderId: '552659850812',
-      appId: '1:552659850812:web:d685f74f72161d96'
+      apiKey: 'AIzaSyBibVguIpNCn65EAyBXsaXVvj9JmOaglyE',
+      authDomain: 'gregs-song-app.firebaseapp.com',
+      databaseURL: 'https://gregs-song-app.firebaseio.com',
+      projectId: 'gregs-song-app',
+      storageBucket: 'gregs-song-app.appspot.com',
+      messagingSenderId: '306092445917',
+      appId: '1:306092445917:web:46b19adf37fc0c4d'
     }
   }
 };
